@@ -1,0 +1,16 @@
+{
+  "name": "sucrase-parse-error",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@sucrase/gulp-plugin": "^2.0.0",
+    "gulp": "^4.0.0",
+    "sucrase": "^3.9.6"
+  }
+}
